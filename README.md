@@ -1,4 +1,4 @@
-```
+[``
 
 ```# kul-kul
 
@@ -210,6 +210,6 @@ Contributions are welcome and encouraged. Please follow these steps:
 
 This project is open source. See the LICENSE file for details.
 
----
+---``
 
-For any additional questions or support, please open an issue or contact the repository maintainers.
+For any additional questions or support, please open an issue or contact the repository maintainers.]([https://](https://))
