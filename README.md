@@ -202,7 +202,3 @@ Project ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](https://
 ---
 
 *Dibuat oleh [Raditt10]*
-
-```
-
-```
