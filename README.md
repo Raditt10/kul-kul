@@ -1,6 +1,4 @@
-[``
-
-```# kul-kul
+# Kul-kul Web Application 
 
 A robust codebase designed to support dynamic, modular applications. The `kul-kul` repository by Raditt10 focuses on extensibility, maintainability, and developer productivity. This project is ideal for building scalable services or web applications, enabling rapid development with a clean architecture.
 
