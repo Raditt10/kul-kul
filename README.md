@@ -210,4 +210,5 @@ This project is open source. See the LICENSE file for details.
 
 ---``
 
-For any additional questions or support, please open an issue or contact the repository maintainers.]([https://](https://))
+For any additional questions or support, please open an issue or contact the repository maintainers.](Roundless-Slayer Team)
+
