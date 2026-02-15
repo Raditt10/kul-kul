@@ -181,9 +181,6 @@ Pastikan variabel berikut diatur di `.env` jika Anda menggunakan fitur upload ga
 | `APP_URL` | URL aplikasi (misal: `http://localhost:8000`) |
 | `FILESYSTEM_DISK` | Driver penyimpanan (gunakan `public` untuk upload gambar ekskul) |
 
-## 📸 Screenshot
-
-*(Placeholder untuk screenshot Dashboard Admin atau Halaman Depan)*
 
 ## 🤝 Kontribusi
 
